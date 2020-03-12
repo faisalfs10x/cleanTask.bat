@@ -1,6 +1,8 @@
+#https://www.tutorialspoint.com/batch_script/index.htm
+
 @echo off
 REM del C:\Windows\Prefetch\*.* /Q
-TITLE simple cleanTask script by FaisalFs [16/02/2020] echo %DATE%
+TITLE simple cleanTask script by Faisalfs10x [16/02/2020] echo %DATE%
 
 @echo on 
 rem # OS Version #
